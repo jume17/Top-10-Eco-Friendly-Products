@@ -1,0 +1,26 @@
+body
+{
+  background-image: url(gg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: Verdana;
+  font-size: 16pt;
+}
+h1
+{
+  text-align: center;
+  font-family: Lucida Handwriting;
+  font-size: 40pt;
+  color: black;
+}
+h2
+{
+  font-family: Lucida Handwriting;
+  font-size: 25pt;
+  color: black;
+}
+p
+{ 
+  font-size: 17pt;
+  color: black;
+}
